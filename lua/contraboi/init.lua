@@ -1,5 +1,5 @@
-require("theprimeagen.set")
-require("theprimeagen.remap")
+require("contraboi.set")
+require("contraboi.remap")
 
 -- DO NOT INCLUDE THIS
 vim.opt.rtp:append("~/personal/streamer-tools")
